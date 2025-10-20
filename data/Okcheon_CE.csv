@@ -1,4 +1,4 @@
-﻿location,lat,long,alt,year,cultivar,bloom_date,bloom_doy
+﻿location,lat,long,alt,year,cultivar,bloom_date (:Date),bloom_doy (d)
 okcheon,,,,1997,Campbell Early,1997-06-01,152
 okcheon,,,,1998,Campbell Early,1998-05-25,145
 okcheon,,,,1999,Campbell Early,1999-05-26,146

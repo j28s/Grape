@@ -1,4 +1,4 @@
-﻿location,lat,long,alt,year,cultivar,bloom_date,bloom_doy
+﻿location,lat,long,alt,year,cultivar,bloom_date (:Date),bloom_doy (d)
 okcheon,,,,1999,Kyoho,1999-06-04,155
 okcheon,,,,2002,Kyoho,2002-05-30,150
 okcheon,,,,2003,Kyoho,2003-06-07,158

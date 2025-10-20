@@ -1,4 +1,4 @@
-﻿location,lat,long,alt,year,cultivar,bloom_date,bloom_doy
+﻿location,lat,long,alt,year,cultivar,bloom_date (:Date),bloom_doy (d)
 jinju,,,,1998,Kyoho,1998-05-23,143
 jinju,,,,1999,Kyoho,1999-06-04,155
 jinju,,,,2000,Kyoho,2000-06-05,157

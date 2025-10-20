@@ -1,4 +1,4 @@
-﻿location,lat,long,alt,year,cultivar,bloom_date,bloom_doy
+﻿location,lat,long,alt,year,cultivar,bloom_date (:Date),bloom_doy (d)
 naju,,,,1999,Kyoho,1999-06-04,155
 naju,,,,2000,Kyoho,2000-06-03,155
 naju,,,,2001,Kyoho,2001-05-28,148

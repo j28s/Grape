@@ -1,4 +1,4 @@
-﻿location,lat,long,alt,year,cultivar,bloom_date,bloom_doy
+﻿location,lat,long,alt,year,cultivar,bloom_date (:Date),bloom_doy (d)
 naju,,,,1997,Campbell Early,1997-06-01,152
 naju,,,,1999,Campbell Early,1999-05-26,146
 naju,,,,2000,Campbell Early,2000-06-02,154
